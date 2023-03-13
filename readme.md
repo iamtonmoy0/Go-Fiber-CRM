@@ -1,6 +1,6 @@
-# CRM Project with Fiber and Golang
+## CRM Project with Fiber and Golang
 
-# Tech Used ~>
+### Tech Used ~>
 
 * Golang
 * Fiber
