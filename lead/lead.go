@@ -9,3 +9,16 @@ type Lead struct {
 	Email   string
 	Phone   int
 }
+
+func GetLeads() {
+
+}
+func GetLead() {
+
+}
+func NewLead() {
+
+}
+func DeleteLead() {
+
+}
