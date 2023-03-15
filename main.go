@@ -7,6 +7,7 @@ import (
 	"github.com/iamtonmoy0/Go-Fiber-CRM/database"
 	"github.com/iamtonmoy0/Go-Fiber-CRM/lead"
 	"github.com/jinzhu/gorm"
+	_ "github.com/jinzhu/gorm/dialects/sqlite"
 )
 
 // db
