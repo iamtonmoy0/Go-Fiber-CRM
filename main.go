@@ -33,7 +33,6 @@ func setupRoutes(app *fiber.App) {
 func main() {
 	app := fiber.New()
 	setupRoutes(app)
-
 	app.Listen(3000)
 	defer database.DBConn.Close()
 
